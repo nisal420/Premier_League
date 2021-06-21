@@ -1,0 +1,70 @@
+.component {
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-background-color: white;
+}
+
+.title {
+    -fx-font-family: "Poppins", "Monaco", sans-serif;
+    -fx-font-weight: bold;
+    -fx-font-size: 22px;
+}
+
+.component-heading {
+    -fx-font-family: "Poppins", "Monaco", sans-serif;
+    -fx-font-weight: bold;
+    -fx-font-size: 17px;
+}
+
+.form-label-heading {
+    -fx-font-family: "Poppins", "Monaco", sans-serif;
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+}
+
+.txt-small {
+    -fx-font-family: "Poppins", "Monaco", sans-serif;
+    -fx-max-width: 50px;
+}
+
+.txt-medium {
+    -fx-font-family: "Poppins", "Monaco", sans-serif;
+    -fx-max-width: 100px;
+}
+
+.table {
+    -fx-max-width: 560px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+}
+
+.button {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-font-family: "Poppins", "Monaco", sans-serif;
+    -fx-font-weight: bold;
+    -fx-font-size: 13px;
+    -fx-min-width: 100%;
+}
+
+.button-random-match {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-font-family: "Poppins", "Monaco", sans-serif;
+    -fx-font-weight: bold;
+    -fx-font-size: 13px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-min-width: 100%;
+}
+
+.button-sort-table {
+    -fx-background-color: rgb(244, 244, 244);
+    -fx-text-fill: black;
+    -fx-font-family: "Poppins", "Monaco", sans-serif;
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-min-width: 100%;
+}
